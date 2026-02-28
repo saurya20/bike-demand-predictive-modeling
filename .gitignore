@@ -1,0 +1,17 @@
+# RStudio files
+.Rhistory
+.RData
+.Ruserdata
+
+# R project files
+*.Rproj
+
+# Output files
+output/
+*.png
+*.pdf
+*.csv
+
+# Mac / Windows junk
+.DS_Store
+Thumbs.db
